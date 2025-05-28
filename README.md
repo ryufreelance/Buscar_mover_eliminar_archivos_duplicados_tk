@@ -32,13 +32,14 @@ Ejecuta la Aplicación:
 ## Bash
 
 python main.py
+
 (Asegúrate de que el archivo principal se llame main.py o ajusta el comando).
 
-**Selecciona la Carpeta:** Haz clic en el botón "Examinar carpeta" y elige el directorio donde quieres buscar duplicados.
+- **Selecciona la Carpeta:** Haz clic en el botón "Examinar carpeta" y elige el directorio donde quieres buscar duplicados.
 
-**Inicia el Escaneo:** Haz clic en el botón "Iniciar". La barra de progreso indicará el avance.
+- **Inicia el Escaneo:** Haz clic en el botón "Iniciar". La barra de progreso indicará el avance.
 
-**Gestiona Duplicados:** Una vez que el escaneo finalice, los grupos de archivos duplicados se mostrarán.
+- **Gestiona Duplicados:** Una vez que el escaneo finalice, los grupos de archivos duplicados se mostrarán.
 
 # Marca las casillas de los archivos que deseas mover o eliminar.
 
